@@ -1,0 +1,17 @@
+{
+  "name": "AdventOfCode24",
+  "version": "1.0.0",
+  "description": "Just for fun",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  },
+  "type": "module"
+}
